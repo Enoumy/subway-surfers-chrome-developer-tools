@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Subway Surfer Extension",
+  "description": "An extension to view subway surfers",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "capybara.png"
+  },
+  "devtools_page": "devtools.html"
+}
